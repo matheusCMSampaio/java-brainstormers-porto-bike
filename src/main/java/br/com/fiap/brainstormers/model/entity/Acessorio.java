@@ -49,7 +49,7 @@ public class Acessorio {
 	}
 
 	public Float getValorAcessorio() {
-		return ValorAcessorio;
+		return valorAcessorio;
 	}
 
 	public void setValorAcessorio(Float valorAcessorio) {
